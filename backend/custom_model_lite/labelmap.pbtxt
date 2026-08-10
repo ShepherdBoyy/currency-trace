@@ -1,0 +1,160 @@
+item {
+  id: 1
+  name: 'british_one_pound'
+}
+
+item {
+  id: 2
+  name: 'british_two_pounds'
+}
+
+item {
+  id: 3
+  name: 'british_five_note'
+}
+
+item {
+  id: 4
+  name: 'british_ten_note'
+}
+
+item {
+  id: 5
+  name: 'british_twenty_note'
+}
+
+item {
+  id: 6
+  name: 'one_euro'
+}
+
+item {
+  id: 7
+  name: 'two_euro'
+}
+
+item {
+  id: 8
+  name: 'five_euro'
+}
+
+item {
+  id: 9
+  name: 'ten_euro'
+}
+
+item {
+  id: 10
+  name: 'twenty_euro'
+}
+
+item {
+  id: 11
+  name: 'kuwait_one_dinar'
+}
+
+item {
+  id: 12
+  name: 'kuwait_five_fils'
+}
+
+item {
+  id: 13
+  name: 'kuwait_five_dinar'
+}
+
+item {
+  id: 14
+  name: 'kuwait_ten_fils'
+}
+
+item {
+  id: 15
+  name: 'kuwait_ten_dinar'
+}
+
+item {
+  id: 16
+  name: 'philippines_one_cent'
+}
+
+item {
+  id: 17
+  name: 'philippines_one_peso'
+}
+
+item {
+  id: 18
+  name: 'philippines_five_cents'
+}
+
+item {
+  id: 19
+  name: 'philippines_five_pesos'
+}
+
+item {
+  id: 20
+  name: 'philippines_ten_pesos'
+}
+
+item {
+  id: 21
+  name: 'philippines_twenty_pesos'
+}
+
+item {
+  id: 22
+  name: 'philippines_twenty_five_cents'
+}
+
+item {
+  id: 23
+  name: 'philippines_fifty_pesos'
+}
+
+item {
+  id: 24
+  name: 'philippines_one_hundred_pesos'
+}
+
+item {
+  id: 25
+  name: 'philippines_two_hundred_pesos'
+}
+
+item {
+  id: 26
+  name: 'philippines_five_hundred_pesos'
+}
+
+item {
+  id: 27
+  name: 'philippines_one_thousand_pesos'
+}
+
+item {
+  id: 28
+  name: 'one_dollar'
+}
+
+item {
+  id: 29
+  name: 'two_dollars'
+}
+
+item {
+  id: 30
+  name: 'five_dollars'
+}
+
+item {
+  id: 31
+  name: 'nickel'
+}
+
+item {
+  id: 32
+  name: 'penny'
+}
+
