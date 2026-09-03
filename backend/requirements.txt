@@ -1,68 +1,78 @@
-absl-py
-astunparse
-blinker
-cachetools
-certifi
-charset-normalizer
-click
-colorama
-contourpy
-cycler
+# absl-py
+# astunparse
+# blinker
+# cachetools
+# certifi
+# charset-normalizer
+# click
+# colorama
+# contourpy
+# cycler
+# Flask
+# Flask-Cors
+# flask-marshmallow
+# Flask-SQLAlchemy
+# flatbuffers
+# fonttools
+# gast
+# google-auth
+# google-auth-oauthlib
+# google-pasta
+# greenlet
+# grpcio
+# gunicorn
+# h5py
+# idna
+# importlib-metadata
+# importlib-resources
+# itsdangerous
+# Jinja2
+# keras
+# kiwisolver
+# libclang
+# Markdown
+# MarkupSafe
+# marshmallow
+# marshmallow-sqlalchemy
+# matplotlib
+# ml-dtypes
+# mysqlclient
+# numpy
+# oauthlib
+# opencv-python
+# opt-einsum
+# packaging
+# pillow
+# protobuf
+# pyasn1
+# pyasn1-modules
+# pyparsing
+# python-dateutil
+# python-dotenv
+# requests
+# requests-oauthlib
+# rsa
+# six
+# SQLAlchemy
+# tensorboard
+# tensorboard-data-server
+# tensorflow
+# tensorflow-intel
+# tensorflow-estimator
+# tensorflow-io-gcs-filesystem
+# termcolor
+# typing_extensions
+# urllib3
+# Werkzeug
+# wrapt
+# zipp
+
+# Trim Dependencies
 Flask
 Flask-Cors
-flask-marshmallow
-Flask-SQLAlchemy
-flatbuffers
-fonttools
-gast
-google-auth
-google-auth-oauthlib
-google-pasta
-greenlet
-grpcio
 gunicorn
-h5py
-idna
-importlib-metadata
-importlib-resources
-itsdangerous
-Jinja2
-keras
-kiwisolver
-libclang
-Markdown
-MarkupSafe
-marshmallow
-marshmallow-sqlalchemy
-matplotlib
-ml-dtypes
-mysqlclient
 numpy
-oauthlib
 opencv-python
-opt-einsum
-packaging
 pillow
-protobuf
-pyasn1
-pyasn1-modules
-pyparsing
-python-dateutil
-python-dotenv
-requests
-requests-oauthlib
-rsa
-six
-SQLAlchemy
-tensorboard
-tensorboard-data-server
+matplotlib
 tensorflow
-tensorflow-intel
-tensorflow-estimator
-tensorflow-io-gcs-filesystem
-termcolor
-typing_extensions
-urllib3
-Werkzeug
-wrapt
-zipp
