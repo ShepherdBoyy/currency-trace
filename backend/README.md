@@ -110,3 +110,7 @@ Accepts an image file and returns detected currency objects with confidence scor
   "error": "No image uploaded"
 }
 ```
+
+## License
+
+This project is licensed under the [MIT License](../LICENSE)
